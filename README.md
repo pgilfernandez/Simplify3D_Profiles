@@ -7,10 +7,11 @@ Installation
 ------
 **Profiles**: just open Simplify 3D and go to File/Import FFF profile
 
-**Printer models**: depending on your OS the folder might change. As far as I have tested:
-    OSX: [your_user]/Library/Application Support/Simplify3D/S3D-Software/
-    Windows: not tested
-    Linux: not tested
+**Printer models**: depending on your OS the folder where models are placed might change:
+
+    - OSX: [your_user]/Library/Application Support/Simplify3D/S3D-Software/
+    - Windows: not tested
+    - Linux: not tested
 
 License
 ------
