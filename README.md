@@ -5,7 +5,7 @@ They are based on Cura basic BCN3D Technologies configurations but they are impr
 
 Installation
 ------
-**Profiles**: just open Simplify 3D and go to File/Import FFF profile
+**Profiles**: just open Simplify 3D and go to *File/Import FFF profile*
 
 **Printer models**: depending on your OS the folder where models are placed might change:
 
